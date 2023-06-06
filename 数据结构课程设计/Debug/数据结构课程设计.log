@@ -1,0 +1,7 @@
+﻿  team_operate.cpp
+C:\Users\Administrator\source\repos\数据结构课程设计\数据结构课程设计\team_operate.cpp(239,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\source\repos\数据结构课程设计\数据结构课程设计\team_operate.cpp(478,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\source\repos\数据结构课程设计\数据结构课程设计\team_operate.cpp(505,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\source\repos\数据结构课程设计\数据结构课程设计\team_operate.cpp(518,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\source\repos\数据结构课程设计\数据结构课程设计\team_operate.cpp(455): warning C4715: “operate”: 不是所有的控件路径都返回值
+  数据结构课程设计.vcxproj -> C:\Users\Administrator\source\repos\数据结构课程设计\Debug\数据结构课程设计.exe
